@@ -20,9 +20,9 @@ instance. Additionally, this opens up experiments with mixing the crowd with exp
 
     Evaluation on datasets from CrowdScale 2013 (http://www.crowdscale.org/shared-task) and MediaEval 2013 (http://www.multimediaeval.org/mediaeval2013/crowd2013/).
     
-    [Benchmark Results] (square-2.0/blob/master/benchmark_results.png)
+    [Benchmark Results] (https://github.com/utir/square-2.0/blob/master/benchmark_results.png)
     
-    [Unsupervised Plot] (square-2.0/blob/master/real_unsupervised_plot.png)
+    [Unsupervised Plot] (https://github.com/utir/square-2.0/blob/master/real_unsupervised_plot.png)
 
 5. **Algorithm tweaks**
 
