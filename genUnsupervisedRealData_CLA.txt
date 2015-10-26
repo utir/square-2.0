@@ -1,0 +1,1 @@
+--responses ./data/HCB/responses.txt --category ./data/HCB/categories.txt --groundTruth ./data/HCB/groundTruth.txt --method All --estimation unsupervised --saveDir ./nFoldSets/unsupervised/HCB/

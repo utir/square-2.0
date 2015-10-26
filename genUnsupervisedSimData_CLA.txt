@@ -1,0 +1,1 @@
+--responses ./data/HCBHCB3/responses.txt --category ./data/HCBHCB3/categories.txt --groundTruth ./data/HCBHCB3/groundTruth.txt --method All --estimation unsupervised --saveDir ./nFoldSetsSim/unsupervised/HCBHCB3/

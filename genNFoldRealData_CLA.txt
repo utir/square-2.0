@@ -1,0 +1,9 @@
+--responses ./data/HCB/responses.txt --category ./data/HCB/categories.txt --groundTruth ./data/HCB/groundTruth.txt --method All --nfold 10 --estimation supervised --saveDir ./nFoldSets/nFoldSet_10/HCB/
+
+--responses ./data/HCB/responses.txt --category ./data/HCB/categories.txt --groundTruth ./data/HCB/groundTruth.txt --method All -the-nfold 5 --estimation supervised --saveDir ./nFoldSets/nFoldSet_20/HCB/
+
+--responses ./data/HCB/responses.txt --category ./data/HCB/categories.txt --groundTruth ./data/HCB/groundTruth.txt --method All --nfold 2 --estimation supervised --saveDir ./nFoldSets/nFoldSet_50/HCB/
+
+--responses ./data/HCB/responses.txt --category ./data/HCB/categories.txt --groundTruth ./data/HCB/groundTruth.txt --method All --nfold -5 --estimation supervised --saveDir ./nFoldSets/nFoldSet_80/HCB/
+
+--responses ./data/HCB/responses.txt --category ./data/HCB/categories.txt --groundTruth ./data/HCB/groundTruth.txt --method All --nfold -10 --estimation supervised --saveDir ./nFoldSets/nFoldSet_90/HCB/

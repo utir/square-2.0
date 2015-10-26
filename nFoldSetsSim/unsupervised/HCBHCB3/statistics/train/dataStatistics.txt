@@ -1,0 +1,10 @@
+Number of Questions: 3275
+Number of Responses: 9825
+Number of Workers: 252
+Average number of questions answered per worker: 38.98809523809524
+Standard Deviation: 107.11941737531785
+Median of questions answered per worker: 14.0
+Minimum number of questions answered by a worker: 1
+Maximum number of questions answered by a worker: 999
+Average number of responses by each worker: 38.98809523809524
+Average number of workers per question: 2.9019847328244275
